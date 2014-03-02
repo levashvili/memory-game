@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55b25077-c189-41e5-b859-3d9a45522653" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/LESS.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/bicycle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/butterfly.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/celltower.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/chicken.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/choc-strawberry.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/clown.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/deer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/dog.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/fire.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/fish.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/fox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/gears.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/leaf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/mosquito.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/parrot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/pineapple.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/pizza.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/rollerblade.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/scooter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/shoe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/skiing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/snake.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/storm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/sunflower.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/tent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/trash-monster.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/wheel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons_numbered/9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/square-tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/square-tile2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/components/heart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jasmine-1.3.1/MIT.LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jasmine-1.3.1/jasmine-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jasmine-1.3.1/jasmine.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jasmine-1.3.1/jasmine.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/react-0.8.0/build/JSXTransformer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/react-0.8.0/build/react-with-addons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/react-0.8.0/build/react-with-addons.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/react-0.8.0/build/react.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/react-0.8.0/build/react.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/react-0.8.0/examples/shared/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/react-0.8.0/examples/shared/thirdparty/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/react-0.8.0/examples/todomvc-backbone/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/react-0.8.0/examples/todomvc-backbone/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/react-0.8.0/examples/todomvc-backbone/css/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/react-0.8.0/examples/todomvc-backbone/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/react-0.8.0/examples/todomvc-backbone/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/react-0.8.0/examples/todomvc-backbone/js/ie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/react-0.8.0/examples/todomvc-backbone/thirdparty/backbone-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/react-0.8.0/examples/todomvc-backbone/thirdparty/backbone.localStorage-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/react-0.8.0/examples/todomvc-backbone/thirdparty/lodash.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/require/react-plugin.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/templates/heart.html" afterPath="$PROJECT_DIR$/js/templates/heart.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="memory-game.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="memory-game" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="style.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="1" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1785">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="heart.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/templates/heart.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="6" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="120">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="315">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="board.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/board.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.76363635" vertical-offset="630" max-vertical-offset="2955">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="heart.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/views/heart.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="1140">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/css/style.less" />
+        <option value="$PROJECT_DIR$/js/templates/heart.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="memory-game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="memory-game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="memory-game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="memory-game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="memory-game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="Errors" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55b25077-c189-41e5-b859-3d9a45522653" name="Default" comment="" />
+      <created>1393737108270</created>
+      <updated>1393737108270</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="1" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1785">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/templates/heart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="6" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/views/heart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="1140">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="1" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1785">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/views/heart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1140">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/templates/heart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="6" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="716">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/board.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.76363635" vertical-offset="630" max-vertical-offset="2955">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
