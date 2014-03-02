@@ -1,0 +1,13 @@
+<div>
+    <div class="timer"><h1>Countdown</h1><span id="timer"><%= countdown %></span></div>
+    <div class="points"><h1>Points</h1><span><%= points %></span></div>
+    <div id="heart" class="heart"><% _.each(squares, function(square) {
+        if(square.isNotEmpty) { %><div class="heart-square" id="<%=square.position%>">
+            <div class="heart-square-card exposed">
+                <div class="front face"></div>
+                <div class="back face">
+                    <img src="images/icons_numbered/<%= square.icon %>.png" />
+                </div>
+            </div>
+        </div><% } else { %><div class="empty-square"></div><% } }) %></div>
+</div>

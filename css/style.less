@@ -1,0 +1,114 @@
+@square-side-length: 90px;
+@square-margin: 2px;
+.heart {
+  width: (@square-side-length + 2 * @square-margin) * 11 + 2*@square-margin;
+  height: (@square-side-length + 2 * @square-margin) * 9 + 2*@square-margin;
+  background-color: #dcdcdc;
+  margin-top: 10px;
+  margin-left: 250px;
+  padding: @square-margin;
+  //  position:relative;
+}
+
+img {
+  width:100%;
+  height: 100%;
+}
+
+.Square() {
+  width: @square-side-length;
+  height: @square-side-length;
+  margin: @square-margin !important;
+  display:inline-block;
+  vertical-align: top;
+}
+
+.empty-square {
+  .Square();
+}
+
+.heart-square {
+  .Square();
+  z-index: 1;
+  -webkit-perspective: 1000;
+  perspective: 1000;
+}
+
+.heart-square-card {
+  width: 100%;
+  height: 100%;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+
+  -webkit-transition: -webkit-transform 0.5s linear;
+  -o-transition: -o-transform 0.5s linear;
+  transition: all 0.5s linear;
+}
+
+.Flash(@action: flash, @duration: 3s, @iterationCount: 1, @delay: 0s) {
+  animation: @action @duration @delay;
+  animation-iteration-count: @iterationCount;
+  -webkit-animation: @action @duration @delay;  /* Safari & Chrome */
+  -webkit-animation-timing-function:linear;
+  -webkit-animation-iteration-count: @iterationCount;
+}
+
+@keyframes flash {
+  50%   { transform:  rotateY(180deg);   }
+  100%  { transform:  rotateY(0deg);   }
+}
+
+@-webkit-keyframes flash {
+  50%   { -webkit-transform:  rotateY(180deg);   }
+  100%  { -webkit-transform:  rotateY(0deg);   }
+}
+
+.flash {
+  .Flash();
+}
+
+.exposed {
+  -moz-transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+}
+
+.face {
+  background-color: red;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+.face.back {
+  background-color: white;
+  -moz-transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+}
+
+.timer {
+  font-size: 14pt;
+  color: red;
+  float:left;
+  text-align: center;
+  margin-left: 30px;
+  span {
+    font-size: 40pt;
+  }
+}
+
+.points {
+  font-size: 14pt;
+  color: red;
+  float:right;
+  text-align: center;
+  margin-right: 30px;
+  span {
+    font-size: 40pt;
+  }
+}
